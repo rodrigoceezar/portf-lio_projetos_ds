@@ -1248,10 +1248,6 @@ input[type="radio"] + label:before {
         height: 399px;
         width: 517px;
       }
-#id_image2 {
-  height: 399px;
-  width: 564px;
-}
 
 a.image {
   overflow: hidden; }
